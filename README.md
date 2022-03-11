@@ -3,7 +3,6 @@
 - 🔭 Dando os primeiros passos no mundo da programação !
 - 🌱 Estudando Front-End e sendo entusiasta no Back-End, pretendo ser Full-Stack um dia. 
 - ⚡ Fun fact: Alguns fungos criam zumbis e então controlam suas mentes... Qual o seu "fungo"? 
-- 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris7-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
